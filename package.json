@@ -34,7 +34,7 @@
 		"save"
 	],
 	"dependencies": {
-		"conf": "^10.2.0",
+		"conf": "github:evlquaker/conf",
 		"type-fest": "^2.17.0"
 	},
 	"devDependencies": {
